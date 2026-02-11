@@ -68,6 +68,7 @@ p {
     gap: 30px;
     flex-wrap: wrap;
     cursor: pointer;
+    border-radius: 25px;
 }
 
 .project-image {
