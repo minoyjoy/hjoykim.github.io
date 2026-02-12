@@ -10,8 +10,8 @@
 }
 
 body {
-    background-color: rgb(245, 255, 235);
-    color: #141313;
+    background-color: rgb(215, 222, 152);
+    color: #131413;
     font-family: 'ibm';
 }
 
@@ -24,6 +24,11 @@ h1 {
 p {
     font-size: 1rem;
     font-weight: 50;
+}
+
+a {
+    color: #862461;
+    text-decoration: none;
 }
 
 .intro {
@@ -58,7 +63,7 @@ p {
 
 .project-tag {
     font-size: 0.9rem;
-    color: #999;
+    color: #929f8c;
     font-style: italic;
 }
 
