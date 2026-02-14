@@ -28,7 +28,7 @@
 }
 
 body {
-    background-color: rgb(215, 222, 152);
+    background-color: rgb(224, 227, 202);
     color: #131413;
     font-family: 'ibm';
 }
@@ -49,6 +49,11 @@ a {
     color: #a19100;
     text-decoration: none;
     font-weight: 700;
+    
+}
+
+a:hover {
+    color: #c6ad32;
 }
 
 .intro {
