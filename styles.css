@@ -117,7 +117,7 @@ a:hover {
     grid-area: 3 / 1 / span 1 / span 3;
 }
 .long-item-2 {
-    grid-area: 1 / 1 / span 1 / span 3;
+    grid-area: 2 / 1 / span 1 / span 3;
 }
 .med-item {
     grid-area: 1 / 1 / span 1 / span 2;
@@ -133,6 +133,16 @@ a:hover {
     width: 100%;
     display: grid;
     grid-template-rows: 400px 400px 400px;
+    grid-template-columns: auto auto auto;
+    column-gap: 10px;
+    row-gap: 10px;
+    border-radius: 25px;
+    border: 10px solid rgb(244, 246, 226);
+}
+.art-images-2 {
+    width: 100%;
+    display: grid;
+    grid-template-rows: 400px 400px;
     grid-template-columns: auto auto auto;
     column-gap: 10px;
     row-gap: 10px;
